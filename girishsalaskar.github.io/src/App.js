@@ -5,8 +5,8 @@ import './vendor/font-awesome/css/font-awesome.min.css';
 import './vendor/devicons/css/devicons.min.css';
 import './vendor/simple-line-icons/css/simple-line-icons.css';
 import './css/resume.css';
-import NavBar from './NavBar';
-import Home from './Home';
+import NavBar from './Components/NavBar';
+import Home from './Components/Home';
 
 
 class App extends Component {

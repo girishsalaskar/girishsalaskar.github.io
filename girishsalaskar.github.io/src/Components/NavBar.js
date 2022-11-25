@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import profilePic from './img/profile-pic-m.jpg'
+import profilePic from '../img/profile-pic-m.jpg'
 
 class NavBar extends Component {
   state = {}
