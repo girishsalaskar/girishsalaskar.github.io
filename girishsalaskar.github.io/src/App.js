@@ -6,18 +6,34 @@ import './vendor/devicons/css/devicons.min.css';
 import './vendor/simple-line-icons/css/simple-line-icons.css';
 import './css/resume.css';
 import NavBar from './Components/NavBar';
-import Home from './Components/Home';
+import About from './Components/About';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Experience from './Components/Experience';
+import Education from './Components/Education';
+import Skills from './Components/Skills';
 
 
 class App extends Component {
   render() {
     return (
-      <React.Fragment>
+      <BrowserRouter>
         <NavBar></NavBar>
         <div className="container-fluid p-0">
-          <Home></Home>
+          <Routes>
+            <Route path='/' element={<About />} />
+            <Route path='/experience' element={ <Experience /> } />
+            <Route path='/education' element={ <Education /> } />
+            <Route path='/skills' element={ <Skills /> } />
+            <Route path='/*' element={
+              (<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+                <div class="my-auto">
+                  <h2 class="mb-5" style={{color: '#BD5D38'}}>404 - Page not found!</h2>
+                </div>
+              </section>)
+            } />
+          </Routes>
         </div>
-      </React.Fragment>
+      </BrowserRouter>
     );
   }
 }
