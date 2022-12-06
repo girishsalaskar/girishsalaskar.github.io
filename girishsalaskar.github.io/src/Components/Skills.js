@@ -43,6 +43,9 @@ class Skills extends Component {
             <li className="list-inline-item" title="Node JS">
               <i className="devicons devicons-nodejs"></i>
             </li>
+            <li className="list-inline-item" title="Linux">
+              <i className="devicons devicons-linux"></i>
+            </li>
             {/* <li className="list-inline-item">
               <i className="devicons devicons-npm"></i>
             </li> */}
