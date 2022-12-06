@@ -1,21 +1,28 @@
 {
-  "main.css": "static/css/main.cd3dadbb.css",
-  "main.css.map": "static/css/main.cd3dadbb.css.map",
-  "main.js": "static/js/main.71ad6fcc.js",
-  "main.js.map": "static/js/main.71ad6fcc.js.map",
-  "static/media/Simple-Line-Icons.eot?v=2.4.0": "static/media/Simple-Line-Icons.f33df365.eot",
-  "static/media/Simple-Line-Icons.svg?v=2.4.0": "static/media/Simple-Line-Icons.2fe2efe6.svg",
-  "static/media/Simple-Line-Icons.ttf?v=2.4.0": "static/media/Simple-Line-Icons.d2285965.ttf",
-  "static/media/Simple-Line-Icons.woff2?v=2.4.0": "static/media/Simple-Line-Icons.0cb0b9c5.woff2",
-  "static/media/Simple-Line-Icons.woff?v=2.4.0": "static/media/Simple-Line-Icons.78f07e2c.woff",
-  "static/media/devicons.eot?xqxft6": "static/media/devicons.36c5ab93.eot",
-  "static/media/devicons.svg?xqxft6": "static/media/devicons.a21d3c63.svg",
-  "static/media/devicons.ttf?xqxft6": "static/media/devicons.5ed4d646.ttf",
-  "static/media/devicons.woff?xqxft6": "static/media/devicons.a8639dec.woff",
-  "static/media/fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
-  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
-  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
-  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
-  "static/media/profile-pic-m.jpg": "static/media/profile-pic-m.b84e2c19.jpg"
+  "files": {
+    "main.css": "/static/css/main.c02c76b9.css",
+    "main.js": "/static/js/main.52406e45.js",
+    "static/media/devicons.svg?xqxft6": "/static/media/devicons.83a921c3beec1e6eeec1.svg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.809e55bbb1903c630920.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/devicons.eot": "/static/media/devicons.20793d50d6bab011d4fa.eot",
+    "static/media/devicons.woff?xqxft6": "/static/media/devicons.a18b02fe1d0fd197594a.woff",
+    "static/media/devicons.ttf?xqxft6": "/static/media/devicons.0eaeaf3d168e80140635.ttf",
+    "static/media/profile-pic-m.jpg": "/static/media/profile-pic-m.5df6df8cfea0ee06fdf1.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/Simple-Line-Icons.woff?v=2.4.0": "/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Simple-Line-Icons.eot?v=2.4.0": "/static/media/Simple-Line-Icons.85e8c542d5e137beecf9.eot",
+    "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
+    "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
+    "index.html": "/index.html",
+    "main.c02c76b9.css.map": "/static/css/main.c02c76b9.css.map",
+    "main.52406e45.js.map": "/static/js/main.52406e45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02c76b9.css",
+    "static/js/main.52406e45.js"
+  ]
 }
