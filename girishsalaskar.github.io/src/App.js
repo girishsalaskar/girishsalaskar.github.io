@@ -25,9 +25,9 @@ class App extends Component {
             <Route path='/education' element={ <Education /> } />
             <Route path='/skills' element={ <Skills /> } />
             <Route path='/*' element={
-              (<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-                <div class="my-auto">
-                  <h2 class="mb-5" style={{color: '#BD5D38'}}>404 - Page not found!</h2>
+              (<section className="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+                <div className="my-auto">
+                  <h2 className="mb-5" style={{color: '#BD5D38'}}>404 - Page not found!</h2>
                 </div>
               </section>)
             } />
