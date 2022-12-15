@@ -11,6 +11,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Experience from './Components/Experience';
 import Education from './Components/Education';
 import Skills from './Components/Skills';
+import Contact from './Components/Contact';
 
 
 class App extends Component {
@@ -24,6 +25,7 @@ class App extends Component {
             <Route path='/experience' element={ <Experience /> } />
             <Route path='/education' element={ <Education /> } />
             <Route path='/skills' element={ <Skills /> } />
+            <Route path='/contact-me' element={ <Contact /> } />
             <Route path='/*' element={
               (<section className="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                 <div className="my-auto">
