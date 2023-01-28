@@ -111,23 +111,20 @@ class Skills extends Component {
           </table>
 
           <h2 className="mb-5">Stats</h2>
-          <table className="table table-bordered table-stripped">
+          <table className="table table-bordered table-stripped" style={{border: "0px solid black"}}>
             <tbody>
               <tr>
-                <td>
-                  <span>Github Stats</span><br/>
+                <td style={{border: "0px solid black"}}>
                   <img src="https://github-readme-stats.vercel.app/api?username=girishsalaskar&show_icons=true&theme=material-palenight" alt="Github Stats" />
                 </td>
               </tr>
               <tr>
-                <td>
-                  <span>Most used Languages</span><br/>
+                <td style={{border: "0px solid black"}}>
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishsalaskar&layout=compact&theme=material-palenight" alt="Top Languages" />
                 </td>
               </tr>
               <tr>
-                <td>
-                  <span>Streak</span><br/>
+                <td style={{border: "0px solid black"}}>
                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishsalaskar&theme=material-palenight" alt="Github Streak" />
                 </td>
               </tr>

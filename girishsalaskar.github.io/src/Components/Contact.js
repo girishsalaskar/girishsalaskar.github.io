@@ -42,7 +42,9 @@ class Contact extends Component {
                                                     <i className="fa fa-circle fa-stack-2x"></i>
                                                     <i className="fa fa-mobile fa-stack-1x fa-inverse"></i>
                                                 </span> */}
-                                            <img src="https://img.shields.io/badge/Message-%2B91--9665--703062-red?style=for-the-badge&logo=whatsapp" alt="" title="Message or Call on +91-9665-703062" />
+                                            <a href="https://wa.me/+919665703062">
+                                                <img src="https://img.shields.io/badge/Message-%2B91--9665--703062-red?style=for-the-badge&logo=whatsapp" alt="" title="Message on +91-9665-703062" />
+                                            </a>
                                         </li>
                                     </ul>
                                 </td>
