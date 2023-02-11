@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c02c76b9.css",
-    "main.js": "/static/js/main.a5d1c839.js",
+    "main.css": "/static/css/main.537196c8.css",
+    "main.js": "/static/js/main.cff1d23b.js",
     "static/media/devicons.svg?xqxft6": "/static/media/devicons.83a921c3beec1e6eeec1.svg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.809e55bbb1903c630920.svg",
@@ -18,11 +18,11 @@
     "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
     "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
     "index.html": "/index.html",
-    "main.c02c76b9.css.map": "/static/css/main.c02c76b9.css.map",
-    "main.a5d1c839.js.map": "/static/js/main.a5d1c839.js.map"
+    "main.537196c8.css.map": "/static/css/main.537196c8.css.map",
+    "main.cff1d23b.js.map": "/static/js/main.cff1d23b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c02c76b9.css",
-    "static/js/main.a5d1c839.js"
+    "static/css/main.537196c8.css",
+    "static/js/main.cff1d23b.js"
   ]
 }

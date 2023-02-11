@@ -11,7 +11,7 @@ class Skills extends Component {
         <div className="my-auto">
           <h2 className="mb-5">Skills & Technologies</h2>
 
-          <ul className="list-inline list-icons">
+          {/* <ul className="list-inline list-icons">
             <li className="list-inline-item" title="HTML and HTML5">
               <i className="devicons devicons-html5"></i>
             </li>
@@ -63,7 +63,7 @@ class Skills extends Component {
             <li className="list-inline-item" title="Jira">
               <i className="devicons devicons-jira"></i>
             </li>
-          </ul>
+          </ul> */}
 
           <table className="table table-bordered table-stripped">
             <tbody>
@@ -115,17 +115,17 @@ class Skills extends Component {
             <tbody>
               <tr>
                 <td style={{border: "0px solid black"}}>
-                  <img src="https://github-readme-stats.vercel.app/api?username=girishsalaskar&show_icons=true&theme=material-palenight" alt="Github Stats" />
+                  <img style={{width:'339px'}} src="https://github-readme-stats.vercel.app/api?username=girishsalaskar&show_icons=true&theme=material-palenight" alt="Github Stats" />
                 </td>
               </tr>
               <tr>
                 <td style={{border: "0px solid black"}}>
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishsalaskar&layout=compact&theme=material-palenight" alt="Top Languages" />
+                  <img style={{width:'339px'}} src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishsalaskar&layout=compact&theme=material-palenight" alt="Top Languages" />
                 </td>
               </tr>
               <tr>
                 <td style={{border: "0px solid black"}}>
-                  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishsalaskar&theme=material-palenight" alt="Github Streak" />
+                  <img style={{width:'339px'}} src="https://github-readme-streak-stats.herokuapp.com/?user=girishsalaskar&theme=material-palenight" alt="Github Streak" />
                 </td>
               </tr>
               {/* <tr>

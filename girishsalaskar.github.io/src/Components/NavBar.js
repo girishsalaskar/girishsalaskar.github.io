@@ -22,17 +22,20 @@ class NavBar extends Component {
             {/* <li className="nav-item">
               <Link className="nav-link js-scroll-trigger" to="/">About</Link>
             </li> */}
-            <li className="nav-item">
-              <Link to="/skills" className="nav-link js-scroll-trigger">Skills & Stats</Link>
+            <li className="nav-item d-sm-block d-m-none d-lg-none">
+              <Link to="/" className="nav-link js-scroll-trigger" >Home</Link>
             </li>
             <li className="nav-item">
-              <Link to="/experience" className="nav-link js-scroll-trigger">Experience</Link>
+              <Link to="/skills" className="nav-link js-scroll-trigger" >Skills & Stats</Link>
             </li>
             <li className="nav-item">
-              <Link to="/education" className="nav-link js-scroll-trigger">Education</Link>
+              <Link to="/experience" className="nav-link js-scroll-trigger" >Experience</Link>
             </li>
             <li className="nav-item">
-              <Link to="/contact-me" className="nav-link js-scroll-trigger">Contact me</Link>
+              <Link to="/education" className="nav-link js-scroll-trigger" >Education</Link>
+            </li>
+            <li className="nav-item">
+              <Link to="/contact-me" className="nav-link js-scroll-trigger" >Contact me</Link>
             </li>
             {/* <li className="nav-item">
               <Link to="/certificates" className="nav-link js-scroll-trigger">Certificates</Link>
