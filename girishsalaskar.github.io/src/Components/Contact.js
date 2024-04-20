@@ -34,7 +34,7 @@ class Contact extends Component {
                                                     <i className="fa fa-circle fa-stack-2x"></i>
                                                     <i className="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
                                                 </span> */}
-                                                <img src="https://img.shields.io/badge/Mail%20To-girishsalaskar812@gmail.com-red?style=for-the-badge&logo=gmail" alt="" />
+                                                <img src="https://img.shields.io/badge/Mail-girishsalaskar812%40gmail.com-%23868e96?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%23BD5D38&color=%23868e96" alt="" />
                                             </a>
                                         </li>
                                         <li className="list-inline-item">
@@ -43,7 +43,7 @@ class Contact extends Component {
                                                     <i className="fa fa-mobile fa-stack-1x fa-inverse"></i>
                                                 </span> */}
                                             <a href="https://wa.me/+919665703062">
-                                                <img src="https://img.shields.io/badge/Message-%2B91--9665--703062-red?style=for-the-badge&logo=whatsapp" alt="" title="Message on +91-9665-703062" />
+                                                <img src="https://img.shields.io/badge/Message-%2B91--9665703062-%23868e96?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=%23BD5D38&color=%23868e96" alt="" title="Message on +91-9665-703062" />
                                             </a>
                                         </li>
                                     </ul>
@@ -59,7 +59,7 @@ class Contact extends Component {
                                                     <i className="fa fa-circle fa-stack-2x"></i>
                                                     <i className="fa fa-facebook fa-stack-1x fa-inverse"></i>
                                                 </span> */}
-                                                <img src="https://img.shields.io/badge/Facebook-Connect-red?style=for-the-badge&logo=facebook" alt="" />
+                                                <img src="https://img.shields.io/badge/Facebook-Connect-%23868e96?style=for-the-badge&logo=facebook&logoColor=white&labelColor=%23BD5D38&color=%23868e96" alt="" />
                                             </a>
                                         </li>
                                         {/* <li className="list-inline-item">
@@ -76,7 +76,7 @@ class Contact extends Component {
                                                     <i className="fa fa-circle fa-stack-2x"></i>
                                                     <i className="fa fa-linkedin fa-stack-1x fa-inverse"></i>
                                                 </span> */}
-                                                <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin" alt="" />
+                                                <img src="https://img.shields.io/badge/LinkedIn-Connect-%23868e96?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23BD5D38&color=%23868e96" alt="" />
                                             </a>
                                         </li>
                                         {/* <li className="list-inline-item">
@@ -94,8 +94,8 @@ class Contact extends Component {
                                 <td>Follow Me</td>
                                 <td>
                                     <ul className="list-inline list-social-icons mb-0">
-                                        <li className="list-inline-item"><a href="https://github.com/girishsalaskar" target="_blank" title="Github Profile"><img src="https://img.shields.io/github/followers/girishsalaskar?color=red&label=Github&logo=github&style=for-the-badge" alt="" /></a></li>
-                                        <li className="list-inline-item"><a href="https://twitter.com/girishsalaskar" target="_blank" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/girishsalaskar?color=red&label=Follow&logo=twitter&style=for-the-badge" alt="" /></a></li>
+                                        <li className="list-inline-item"><a href="https://github.com/girishsalaskar" target="_blank" title="Github Profile"><img src="https://img.shields.io/github/followers/girishsalaskar?style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=%23BD5D38&color=%23868e96" alt="" /></a></li>
+                                        <li className="list-inline-item"><a href="https://twitter.com/intent/follow?screen_name=girishsalaskar" target="_blank" title="Follow on Twitter"><img src="https://img.shields.io/twitter/follow/girishsalaskar?style=for-the-badge&logo=x&logoColor=white&label=Follow&labelColor=%23BD5D38&color=%23868e96" alt="" /></a></li>
                                     </ul>
                                 </td>
                             </tr>

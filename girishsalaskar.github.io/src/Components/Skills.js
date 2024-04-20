@@ -100,12 +100,12 @@ class Skills extends Component {
                 <td>PHPUnit</td>
               </tr>
               <tr>
-                <td>Data Mapping Tools</td>
+                <td>Data Mapping</td>
                 <td>JSON, XML</td>
               </tr>
               <tr>
                 <td>IDE and other Development Tools</td>
-                <td>VS Code, Netbeans, Eclipse, PHPStorm, Github Desktop, Sourcetree</td>
+                <td>VS Code, Netbeans, Eclipse, PHPStorm, Github Desktop</td>
               </tr>
             </tbody>
           </table>
