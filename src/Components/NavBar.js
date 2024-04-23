@@ -34,9 +34,9 @@ class NavBar extends Component {
             <li className="nav-item">
               <Link to="/education" className="nav-link js-scroll-trigger" >Education</Link>
             </li>
-            <li className="nav-item">
-              <Link to="/blogs" className="nav-link js-scroll-trigger" >Blog</Link>
-            </li>
+            {/* <li className="nav-item">
+              <Link to="/blogs" target="_blank" className="nav-link js-scroll-trigger" >Blog</Link>
+            </li> */}
             <li className="nav-item">
               <Link to="/contact-me" className="nav-link js-scroll-trigger" >Contact me</Link>
             </li>
