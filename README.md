@@ -12,4 +12,4 @@ Wanna create your own by copying this? Follow the steps given below:
 5. Edit the code, as you save the code, the changes will immediately reflect on the site you opened. (No need to execute `npm start` again and again)
 6. After finishing changes, stop the running `npm start` command.
 7. Execute the `npm run build` to build the site, it will generate all output files into `./docs` folder.
-8. Copy files from the `./docs` folder and deploy on your host.
+8. Copy files from the `./docs` folder and deploy on your host. If you're using github pages, then go to repo settings->Pages and choose `/docs` folder.
