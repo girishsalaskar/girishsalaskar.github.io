@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://girishsalaskar.github.io/",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4",
